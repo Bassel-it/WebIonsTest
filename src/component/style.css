@@ -1,0 +1,7 @@
+.goToLogin:hover{
+
+    color: aqua;
+}
+.goToLogin{
+    transition: 1s;
+}
